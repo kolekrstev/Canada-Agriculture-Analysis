@@ -57,10 +57,10 @@ https://climate.weather.gc.ca/
 
 
 ## Project Milestones:
-### - Collect Weather stations location data (_done_)
-### - Collect Agricultural Regions data (_done_)
-### - Assign Weather stations location per Agricultiral Regions in each Province (_done_)
-### - Collect Field Crop data for specific Crop type
+1. #### - Collect Weather stations location data (_done_)
+2. #### - Collect Agricultural Regions data (_done_)
+3. #### - Assign Weather stations location per Agricultiral Regions in each Province (_done_)
+4. #### - Collect Field Crop data for specific Crop type
       We can download Barley crop data from 2015-2019 period for start. 
       For most crops these are the ONLY Regions for each Province with data:
       Quebec        - Regions 1-11 (out of 14 regions total)
@@ -70,9 +70,10 @@ https://climate.weather.gc.ca/
                     - New Regions 1-6 (out of 7 regions total)
       Alberta       - Regions 10-70 (equivalent with Regions 1-7 out of 7 total)
       BC            - Regions 1 and 8 (out of 8 regions total)
-      
-### - Map Agricultural Regions this specific Crop type is grown (_map the previous item info with our Weather stations Regions data_)
-### - Collect Weather Stations data (temp, humidity, percipitation, etc) for these Regions (_using Cyqwin or Wget script_)
-### - Pre-process data
-### - Analyze and Visualize insights
+5. #### - Map Agricultural Regions this specific Crop type is grown 
+      (_map the previous item info with our Weather stations Regions data_)
+6. #### - Collect Weather Stations data (temp, humidity, percipitation, etc) for these Regions 
+      (_using Cyqwin or Wget script_)
+7. #### - Pre-process data
+8. #### - Analyze and Visualize insights
 
