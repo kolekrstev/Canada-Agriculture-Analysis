@@ -1,4 +1,4 @@
-# Canada-Agriculture-Analysis
+# Canada Agriculture Field Crops Analysis
 
 ### Project Title: Field Crop Analysis
 ### Project Team: Mendell Kwan and Kole Krstev
