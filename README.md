@@ -1,14 +1,12 @@
 # Canada-Agriculture-Analysis
 
 Project Title: Field Crop Analysis
-
 Project Team: Mendell Kwan and Kole Krstev
-
 Project Overview:
 Analyze and visualize insights for Canada Agriculture Field Crops (different types of crops) and Canada Weather Station Data per Province and Agricultural Regions.
+**********************************************************************************************************
 
-
-Datasets:
+##Datasets:
 
 Weather stations data:
 https://climate.weather.gc.ca/historical_data/search_historic_data_e.html 
