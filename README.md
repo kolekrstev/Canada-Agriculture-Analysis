@@ -77,3 +77,16 @@ https://climate.weather.gc.ca/
 7. #### - Pre-process data
 8. #### - Analyze and Visualize insights
 
+**********************************************************************************************************
+
+## Build Environment
+
+1. Install Anaconda.
+2. From the Anaconda CMD prompt:
+      >conda create --name FieldCrops python=3
+      >conda activate FieldCrops
+      >conda install notebook
+      >conda install mysql-connector-python
+      >conda install geopandas
+
+      
