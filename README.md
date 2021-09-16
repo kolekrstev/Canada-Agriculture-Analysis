@@ -82,7 +82,8 @@ https://climate.weather.gc.ca/
 ## Build Environment
 
 1. Install Anaconda.
-2. From the Anaconda CMD prompt:  
+2. From the Anaconda CMD prompt: 
+   
 conda create --name FieldCrops python=3  
 conda activate FieldCrops  
 conda install notebook  
